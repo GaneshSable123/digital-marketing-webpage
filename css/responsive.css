@@ -87,4 +87,10 @@
     .banner-wrapper .learn-more-btn-section {
         justify-content: center;
     }
+
+    /* faq  */
+
+    .faq-wrapper .accordion-button {
+        font-size: 18px;
+    }
 }
